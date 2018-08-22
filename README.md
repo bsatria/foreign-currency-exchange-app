@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 How to Install
 
-[Non Docker] :
+[Yarn] :
 
 1. yarn install
 2. yarn start
