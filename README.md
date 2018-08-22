@@ -8,6 +8,6 @@ How to Install
 2. yarn start
 3. Enjoy :D
 
-[Docker] :
+[Docker - Not Tested] :
 
 Still on progress [ Connection issue :'( ]
